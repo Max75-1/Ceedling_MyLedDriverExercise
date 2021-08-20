@@ -1,0 +1,5 @@
+LedDriver.c:4:6:LedDriver_Create	4	static
+LedDriver.c:9:6:LedDriver_Destroy	4	static
+LedDriver.c:14:6:AllLedsOff	16	static
+LedDriver.c:19:6:SingleLedTurnedOn	16	static
+LedDriver.c:24:6:SingleLedTurnedOff	16	static
